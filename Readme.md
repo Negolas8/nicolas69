@@ -14,4 +14,3 @@ mode app.js
 Este projeto é uma aplicaçao que ajuda os usuarios a gerenciar suas tarefaa.
 
 
-
