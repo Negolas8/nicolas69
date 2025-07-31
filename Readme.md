@@ -4,7 +4,12 @@
 
 para rodar este projeto na sua maquina, por favor digite:
 
+...
+mode app.js
+...
 
+# Meu projeto incrivel 
+Este projeto é uma aplicaçao que ajuda os usuarios a gerenciar suas tarefaa.
 
 
 
